@@ -1,4 +1,4 @@
-from AddressBook import *
+from .AddressBook import *
 '''
 class CommandType(str, Enum):
     ADD = 'add'

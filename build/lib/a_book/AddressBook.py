@@ -1,7 +1,7 @@
 from datetime import datetime as dt, timedelta
 from collections import UserList
 import pickle
-from info import *
+from .info import *
 import os
 
 

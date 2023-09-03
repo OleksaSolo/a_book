@@ -1,6 +1,6 @@
-from Bot import *
+from .Bot import *
 
-from class_console_output import (
+from .class_console_output import (
     FactoryOutput,
     Terminals,
     TerminalOutput,
