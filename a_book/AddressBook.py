@@ -77,7 +77,7 @@ class AddressBook(UserList):
         self.log("Addressbook has been saved!")
 
     def load(self, file_name):
-        emptyness = os.stat(file_name + '.bin')
+        # emptyness = os.stat(file_name + '.bin')
         if emptyness.st_size != 0:
             with open(file_name + '.bin', 'rb') as file:
                 self.data = pickle.load(file)
