@@ -3,7 +3,7 @@ from setuptools import setup, find_namespace_packages
 setup(name='a_book',
       version='1.01',
       description='Assistant bot',
-      url='https://github.com/OleksaSolo/Pipdock',
+      url='https://github.com/OleksaSolo/a_book',
       author='Oleksa Sol',
       author_email='9095945s@gmail.com',
       license='MIT',
