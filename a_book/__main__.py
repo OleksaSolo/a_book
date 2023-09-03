@@ -29,12 +29,9 @@ def when_out(pre_init: object = None) -> None:
 
     output_terminal=factory_output.create_output(output_terminal, **output_kwargs)
 
-
-if __name__ == "__main__":
-    when_out()
     print('Hello. I am your contact-assistant. What should I do with your contacts?')
     bot = Bot()
-    bot.book.load("auto_save")
+    # bot.book.load("auto_save")
     commands = ['Add', 'Search', 'Edit', 'Load', 'Remove', 'Save', 'Congratulate', 'View', 'Exit']
     while True:
         action = input('Type help for list of commands or enter your command\n').strip().lower()
@@ -52,3 +49,6 @@ if __name__ == "__main__":
                 bot.book.save("auto_save")
         if action == 'exit':
             break
+
+if __name__ == "__main__":
+    when_out()
