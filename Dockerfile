@@ -18,4 +18,4 @@ RUN cd $APP_HOME/user_data
 
 WORKDIR $APP_HOME/user_data
 
-ENTRYPOINT [ "a_book" ]
+ENTRYPOINT [ "a-book" ]
