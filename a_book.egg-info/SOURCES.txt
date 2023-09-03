@@ -1,0 +1,12 @@
+setup.py
+a_book/AddressBook.py
+a_book/Bot.py
+a_book/__init__.py
+a_book/__main__.py
+a_book/class_console_output.py
+a_book/info.py
+a_book.egg-info/PKG-INFO
+a_book.egg-info/SOURCES.txt
+a_book.egg-info/dependency_links.txt
+a_book.egg-info/entry_points.txt
+a_book.egg-info/top_level.txt

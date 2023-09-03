@@ -1,0 +1,2 @@
+[console_scripts]
+a-book = a_book.__main__:when_out

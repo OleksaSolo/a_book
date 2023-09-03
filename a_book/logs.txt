@@ -1,0 +1,17 @@
+[08:19:12] Addressbook has been loaded!
+[08:20:28] Contact Ivan has been added.
+[08:20:29] Addressbook has been saved!
+[08:21:08] Contact  has been removed!
+[08:21:08] Addressbook has been saved!
+[08:21:25] Addressbook has been loaded!
+[08:20:28] Addressbook has been loaded!
+[08:25:18] Addressbook has been loaded!
+[08:25:32] Addressbook has been loaded!
+[08:30:07] Addressbook has been loaded!
+[10:27:04] Addressbook has been loaded!
+[10:28:16] Addressbook has been loaded!
+[10:29:52] Addressbook has been loaded!
+[10:30:26] Addressbook has been loaded!
+[22:40:09] Addressbook has been loaded!
+[22:40:48] Addressbook has been loaded!
+[10:00:12] Addressbook has been loaded!
